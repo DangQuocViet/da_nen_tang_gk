@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "592600081254",
+    "project_id": "da-nen-tang-a7f74",
+    "storage_bucket": "da-nen-tang-a7f74.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:592600081254:android:2ac82dde15ba9ad8c11ea7",
+        "android_client_info": {
+          "package_name": "com.example.app_gk"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpys7gavrR-9IEw2FCPiN1yQ3h3le6bCo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
